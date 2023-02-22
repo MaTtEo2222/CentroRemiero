@@ -18,11 +18,16 @@
     padding: 20px;
   }
   
+ /* Barra di navigazione */
+nav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
   nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
   }
   
   nav li {
@@ -38,8 +43,9 @@
   }
   
   nav li a:hover {
-    background-color: #333;
+    background-color: #4CAF50;
   }
+  
   
   main {
     padding: 20px;
