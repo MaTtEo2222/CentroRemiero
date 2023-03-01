@@ -91,7 +91,7 @@ nav {
 background-color: #ccc;
 }
 #image {
-  border-color: 1px solid black;
+  border: 10px dashed #00008B;
 }
 #data {
   background-color: #999;
