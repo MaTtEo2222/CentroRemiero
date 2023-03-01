@@ -91,9 +91,15 @@ nav {
 background-color: #ccc;
 }
 #image {
-  border: 10px dashed #00008B;
+  border: 10px dashed blue;
+  background-color: red;
 }
 #data {
   background-color: #999;
 }
-  
+#primanotizia {
+  font-family: Georgia;
+}
+#secondanotizia {
+  font-family: sans-serif;
+}
