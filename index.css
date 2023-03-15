@@ -90,9 +90,7 @@ nav {
 #newses { 
 background-color: #ccc;
 }
-#image {
-  border: 10px dashed blue;
-  background-color: red;
+
 }
 #data {
   background-color: #999;
@@ -106,4 +104,9 @@ background-color: #ccc;
 #sponzor {
   font-weight: bold;
   font-family: Arial, sans-serif;
+}
+#chi_siamo {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 12pt;
+  font-style:oblique
 }
