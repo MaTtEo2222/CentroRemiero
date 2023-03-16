@@ -110,3 +110,14 @@ background-color: #ccc;
   font-size: 12pt;
   font-style:oblique
 }
+#titolonews {
+  font-family: 'Times New Roman';
+  font-size: 20pt;
+}
+#inostriserviziintr{
+  font-family: calibri (corpo);
+  font-size: 12pt;
+}
+#bodyinostriservizi {
+  background-image: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yDchzt5AdDPnFAmldsXXB7KXIVw2SCsNXWsE4dx31g&s">;
+}
